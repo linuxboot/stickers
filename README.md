@@ -19,3 +19,10 @@ PNG files are also included because SVG font rendering can get iffy.
 
 * Authors: Ryan O'Leary, Gan Shun Lim, Andrea Barberio
 * Project: https://github.com/linuxboot/fiano
+
+## BIOShazard
+
+![BIOShazard](bioshazard.png)
+
+* Authors: Trammell Hudson, Chris Koch
+* Project: https://bioshazard.info/
