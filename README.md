@@ -26,3 +26,10 @@ PNG files are also included because SVG font rendering can get iffy.
 
 * Authors: Trammell Hudson, Chris Koch
 * Project: https://bioshazard.info/
+
+## Oreboot
+
+![Oreboot](oreboot.png)
+
+* Author: Susanne Nähler
+* Project: https://github.com/oreboot/oreboot
